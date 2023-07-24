@@ -1,2 +1,2 @@
-# JS_MemeMaker
-Make a meme with Javascript
+# Chrome application with JS
+Chrome application with JS
