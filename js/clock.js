@@ -10,4 +10,4 @@ function getClock() {
 }
 
 getClock(); //즉시 호출하여 00:00:00 표시하는일이 없게
-setInterval(getClock, 1000); // 1초마다 갱신
+setInterval(getClock, 1000); // 1초마다 갱신하여 HTML에 표시
